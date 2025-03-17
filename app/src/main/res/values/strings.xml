@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KeeperApp</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="wallet">Wallet</string>
+    <string name="analytics">Analytics</string>
+    <string name="more">More</string>
+
 </resources>
