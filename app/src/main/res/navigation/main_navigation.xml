@@ -20,4 +20,8 @@
         android:id="@+id/moreFragment"
         android:name="com.example.keeper.presentations.views.more.MoreFragment"
         android:label="MoreFragment" />
+    <fragment
+        android:id="@+id/walletManagerFragment"
+        android:name="com.example.keeper.presentations.views.wallet.wallet_manager.WalletManagerFragment"
+        android:label="WallerManagerFragment" />
 </navigation>

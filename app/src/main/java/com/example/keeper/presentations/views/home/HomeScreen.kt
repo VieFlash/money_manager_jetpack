@@ -74,15 +74,11 @@ fun FloatingButton(onClick: () -> Unit) {
         backgroundColor = colorResource(id = R.color.gray50),
         modifier = Modifier
             .size(
-                size = 60.dp
-            )
-            .padding(
-                bottom = 10.dp,
-                end = 5.dp
+                size = 50.dp
             ),
         shape = RoundedCornerShape(12.dp)
     ) {
-        Icon(Icons.Filled.Add, "Small floating action button.")
+        Icon(Icons.Filled.Edit, "Small floating action button.")
     }
 }
 
